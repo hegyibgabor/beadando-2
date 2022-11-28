@@ -32,6 +32,10 @@ function searchEmail($element_id, $array)
 
 echo
 '
+<head>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
 <div class="wrapper" id="mWidth">
     <h1>Szín lekérdezés</h1>
     <form class="form" method="POST">
@@ -41,6 +45,7 @@ echo
             <input class="query_button" type="submit" name="query_button" value="Lekérdezés">
         </div>
     </form>
+</body>
 ';
 
 

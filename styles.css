@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background-color:antiquewhite;
+    font-family: sans-serif;
+}
+input{
+    height: 4rem;
+    width: auto;
+    font-size: 2rem;
+}
+h1{
+    font-size: 6rem;
+    padding-bottom: 6rem;
+}
